@@ -1,0 +1,2 @@
+# Machine-learning-for-sentiment-analysis
+A SENTIMENT ANALYSIS CASE STUDY: APPLE COMPUTER TWEETS USING SAS AND R
